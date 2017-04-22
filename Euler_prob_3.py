@@ -1,7 +1,4 @@
-#num = 407
-# take input from the user
-# num = int(input("Enter a number: "))
-# prime numbers are greater than 1
+
 """The prime factors of 13195 are 5, 7, 13 and 29.
 
 problem: What is the largest prime factor of the number 600851475143 ?"""
